@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ekzuu
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning web devolopment 
-- 💞️ I’m looking to collaborate on projects 
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python,html,css,javascript  
+- 💞️ I’m looking to learn 
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/Him
 - ⚡ Fun fact: cockroaches can survive a nuclear disaster 
